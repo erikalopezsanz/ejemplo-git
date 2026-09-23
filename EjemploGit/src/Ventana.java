@@ -8,7 +8,7 @@ public class Ventana extends JFrame {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setSize(320, 240);
 		
-		setTitle("Prueba de Git");
+		setTitle("ventana 1");
 		
 		setVisible(true);
 	}
